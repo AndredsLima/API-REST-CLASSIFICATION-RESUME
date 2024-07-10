@@ -84,7 +84,6 @@ PDF Text Extraction and Dataset rocessing:
 ### DATASET
 - CSV Resume - https://www.kaggle.com/datasets/danicardeal/resume-occupation-and-seniority
 
-
 # Conclusion 
 
 ### Project Objective
